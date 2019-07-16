@@ -1,7 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-} 
+  margin: 0;
+  padding: 0;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -21,14 +21,14 @@ ul {
 }
 
 li {
-    margin-top: 5px;
+  margin-top: 10px;
 }
 
 a {
-    text-decoration: none;
-    color: #69696a;
-    justify-content: space-between;
-    padding-left: 5px;
+  text-decoration: none;
+  color: #69696a;
+  justify-content: space-between;
+  padding-left: 5px;
 }
 
 h5 {
@@ -64,5 +64,5 @@ p {
 }
 
 .hire {
-    padding-top: 5px;
+  padding-top: 5px;
 }
